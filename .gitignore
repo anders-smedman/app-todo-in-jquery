@@ -1,0 +1,15 @@
+# node modules
+node_modules
+
+# build folder
+dist
+
+#dev-info, texts, info etc
+dev-info
+
+# scripts used to build up dev env
+scripts
+
+# visual code project/history
+.vs
+.history
